@@ -1,3 +1,9 @@
+#单线程刷票脚本
+#目标网站www.maka.im
+#给予无数的访问量和总访客数
+
+
+
 import urllib
 import urllib.parse
 import sys
